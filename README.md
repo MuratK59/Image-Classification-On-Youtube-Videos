@@ -5,4 +5,6 @@ Bu çalışmada derin öğrenme metodu olan evrişimli sinir ağları(Convolutio
 
 2020 yılında Mühendislik tamamlama sırasında yaptığım tez çalışmasıdır. Sonrasında çıkan yayınımızın linki https://dergipark.org.tr/en/pub/ejosat/issue/62946/952481
 
-Çalışma esnasında geliştirdiğim tarayıcı eklentisinin kodları eklenmiştir. Yine çalışma sırasında geliştirdiğim android uygulamasını muhtemelen kendi bilgisayarınızda çalıştıramayacağınız için eklemedim. Tez kitapçığım içerisinde uygulamaları geliştirirken kullandığım adımların tamamı detaylı bir şekilde anlatılmıştır.
+CNN modelin geliştirilmesinde kullanılan veri kümeleri tez kitapçığı içerisinde referans olarak verilmiştir. Yine farklı CNN modelleri denenmiş olup bu modellerin kodları yine repository içerisinde paylaşılmıştırç
+
+Çalışma esnasında geliştirdiğim tarayıcı eklentisinin kodları repository e eklenmiştir. Yine çalışma sırasında geliştirdiğim android uygulamasını muhtemelen kendi bilgisayarınızda çalıştıramayacağınız için eklemedim. Tez kitapçığım içerisinde uygulamaları geliştirirken kullandığım adımların tamamı detaylı bir şekilde anlatılmıştır.
